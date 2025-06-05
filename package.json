@@ -1,7 +1,7 @@
 {
   "name": "myriad-sdk",
   "description": "Myriad SDK - A TypeScript SDK for interacting with the Myriad protocol.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
